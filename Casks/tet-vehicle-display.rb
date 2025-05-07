@@ -1,6 +1,6 @@
 cask "tet-vehicle-display" do
     version "0.23.0"
-    sha256 "5fce15d1219906e00102c388d5cc6ad1b22e895d7ccfadc0af133e03ddd20d5f"
+    sha256 "98a79355ef7380bcc5e4bf227238912d234d7b437a0b30dcd26f27e1e0f7c85d"
     url "https://pto-api.transhub.io/vdtools/macos/tet-vehicle-display_macos_v0.23.0.tar.gz"
     name "TET Vehicle Display"
     desc "Travel information on board the vehicle"
